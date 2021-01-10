@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: document
-  path: content/about/info.md
-  label: Info Page
 - type: directory
   path: content/blog-posts
   label: Blog posts
